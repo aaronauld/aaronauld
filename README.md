@@ -7,6 +7,10 @@
 
 - 📫 How to reach me **aaronauld123@gmail.com**
 
+<h3 align="left">About Me</h3>
+<p align="left">I am currently pursuing an undergraduate degree in a Bachelor of Advanced Computing and Bachelor of Commerce at the University of Sydney. I am majoring in Computer Science and Business Analytics as I am passionate in these such fields and find them extremely gratifying. Currently living in Sydney, Australia working towards becoming a better programmer every day! </p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aa2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aa2000" height="30" width="40" /></a>
