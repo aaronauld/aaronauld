@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">A passionate full stack developer from Australia</h3>
 
-- 🔭 I’m currently working on [a Meditation Tracker](https://github.com/aaronauld/Meditation-Tracker)
+- 🔭 I’m currently working on a [Meditation Tracker](https://github.com/aaronauld/Meditation-Tracker)
 
 - 👨‍💻 All of my projects are available at [aaronauld.github.io](aaronauld.github.io)
 
