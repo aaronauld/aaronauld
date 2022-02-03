@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [Meditation Tracker](https://github.com/aaronauld/Meditation-Tracker)
 
-- 👨‍💻 All of my projects are available at [aaronauld.github.io](aaronauld.github.io)
+- 👨‍💻 All of my projects are available at [aaronauld.github.io](https://aaronauld.github.io)
 
 - 📫 How to reach me **aaronauld123@gmail.com**
 
