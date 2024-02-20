@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning about **OpenAI**
 
-- 👨‍💻 All of my projects are available at [aaronauld](aaronauld.com)
+- 👨‍💻 All of my projects are available at [aaronauld](https://aaronauld.com)
 
 - 💬 Ask me about **All things tech and stoicism**
 
