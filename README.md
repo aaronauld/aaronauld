@@ -26,6 +26,12 @@ More at [aaronauld.com](https://aaronauld.com).
 
 **Certifications** — Microsoft Azure Administrator Associate (AZ-104), Azure AI Fundamentals (AI-900), Azure Data Fundamentals (DP-900), HashiCorp Terraform Associate (003)
 
+## Hiring?
+
+I'm open to full stack roles in New York — Australian citizen, E-3 visa eligible.
+
+**[Download my resume](https://aaronauld.com/resume.pdf)**
+
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/aa2000) · aaronauld123@gmail.com
