@@ -4,8 +4,6 @@ Full stack engineer at Karbon, working on accounting practice management softwar
 
 ## What I'm building
 
-**[Async](https://github.com/async)** — an open TypeScript ecosystem for local-first development. A no-build web [framework](https://github.com/async/framework) with signals, streaming boundaries, and SSR activation; [flow](https://github.com/async/flow) for state machines and portable stores; [db](https://github.com/async/db) and [json](https://github.com/async/json) for data; [pipeline](https://github.com/async/pipeline) for tasks and runners; [witness](https://github.com/async/witness) for build observability; and [auto-git](https://github.com/async/auto-git) for agent-safe Git workflows.
-
 **[Spaggle](https://github.com/spaggle)** — a software product studio. Cadence, Concourse (a control plane for autonomous coding workflows), and [Focused Lens](https://github.com/spaggle/focused-lens-releases).
 
 More at [aaronauld.com](https://aaronauld.com).
