@@ -24,6 +24,8 @@ More at [aaronauld.com](https://aaronauld.com).
 
 **AI** — Azure OpenAI, Azure Document Intelligence
 
+**Certifications** — Microsoft Azure Administrator Associate (AZ-104), Azure AI Fundamentals (AI-900), Azure Data Fundamentals (DP-900), HashiCorp Terraform Associate (003)
+
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/aa2000) · aaronauld123@gmail.com
