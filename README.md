@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5811F,100:E8341C&height=120&section=header" alt="" />
+
 # Aaron Auld
 
 Full stack engineer at Karbon, working on accounting practice management software — .NET 8 backends, React/TypeScript web, and React Native mobile. Sydney, Australia; looking to relocate to New York.
@@ -35,3 +37,5 @@ I'm open to full stack roles in New York — Australian citizen, E-3 visa eligib
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/aa2000) · aaronauld123@gmail.com
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5811F,100:E8341C&height=120&section=footer&reversal=true" alt="" />
